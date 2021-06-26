@@ -48,6 +48,8 @@ Following files are generated as part of code to be used by UI.
   * tfidf_vec.pkl
   * target_enc_dict.obj
   * Final_Model_Pkl
+
+
 These files are placed in UI directory and are required for UI app execution.  
 
 - ##### *UI App*
