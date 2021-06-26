@@ -11,3 +11,16 @@ The input data consists of following text fields:
 - Caller- User who raised the ticket
 - Assignment group- Group to which ticket was assigned
 
+##### Files
+List of Intermediate files:
+- basic_model_tuning_result.csv
+- LR_Results.csv
+- RF_Results.csv
+- word2vec_vector.txt
+- cleaned_en_ticket.csv
+- cleaned_ticket_df.csv
+- tfidf_vec.pkl
+- target_enc_dict.obj
+- cleaned_tuned_vec_ticket.csv
+- resampled_tickets.pkl
+- Final_Model_Pkl
