@@ -32,6 +32,9 @@ The final project is split into 4 notebooks due to RAM limitations. The proper o
 4. [AIML_Capstone_N4_Final_model_pickle_generator](https://github.com/rachitvaid/AIML-Capstone/blob/master/Code/V2%20Final/AIML_Capstone_N4_Final_model_pickle_generator.ipynb) -- Pickling the tuned Neural network model for future use.  
 
 - ##### *Files*
+
+The following file needs to be downloaded and used for LSTM model. From the Zip file [glove.6B.zip](https://nlp.stanford.edu/data/glove.6B.zip) the file glove.6B.100d is extracted and placed in the working directory.  
+
 Multiple intermediate files are created and used among these notebooks.  
 * List of Intermediate files:
   * LR_Results.csv
@@ -48,7 +51,6 @@ Following files are generated as part of code to be used by UI.
   * tfidf_vec.pkl
   * target_enc_dict.obj
   * Final_Model_Pkl
-
 
 These files are placed in UI directory and are required for UI app execution.  
 
